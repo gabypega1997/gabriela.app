@@ -1,12 +1,12 @@
 module.exports = {
-  content: ["pages/*.ts", "components/*.tsx"],
+  content: ["pages/*.ts", "components/*.tsx","pages/*.tsx", "components/*.ts"],
   theme: {
     extend: {
       colors:{
         'navbar-gray': 'rgba(0, 0, 0, 0.67)'
       },
       backgroundImage:{
-        "home-background": "url('/public/img/Background.png')"
+        "home-background": "url('/img/Background.png')"
       }
     },
   },
