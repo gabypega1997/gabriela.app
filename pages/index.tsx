@@ -3,8 +3,9 @@ import Layout from '../components/Layout'
 
 const IndexPage = () => (
   <Layout title="Gabriella's Photography">
-    <div className="bg-[url('/img/Background.png')]">
-      <h1 > “ Photography, an
+    <div>
+      <img src="/img/Background.png" alt="Background" className='absolute  top-0 left-0 -z-50'  />
+      <h1 className='text-white'> “ Photography, an
   unlimited universe,
   in a limited world
   of fate.</h1>
