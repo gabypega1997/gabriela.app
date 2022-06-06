@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        'navbar-gray': 'rgba(0, 0, 0, 0.67)'
+        'navbar-gray': 'rgba(0, 0, 0, 0.55)'
       },
       backgroundImage:{
         "home-background": "url('/img/Background.png')"
