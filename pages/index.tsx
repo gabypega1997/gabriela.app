@@ -6,7 +6,7 @@ const IndexPage = () => (
     <div>
       <img src="/img/Background.png" alt="Background" className='absolute  top-0 left-0 -z-50 h-screen w-screen'  />
       <div className='w-3/5 m-auto font-fancy text-xl'>
-        <h1 className='text-white mt-10 mb-32'>
+        <h1 className='text-fancy-white mt-10 mb-32'>
           “ Photography, an <br/>
           unlimited universe, <br/>
           in a limited world <br/>
@@ -14,7 +14,7 @@ const IndexPage = () => (
         </h1>
         <p className='m-10 text-center p-2 w-40 rounded-3xl bg-button-purple '>
           <Link href="/about">
-            <a className='text-white'>See Photos</a>
+            <a className='text-fancy-white'>See Photos</a>
           </Link>
         </p>
 

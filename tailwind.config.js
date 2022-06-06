@@ -4,7 +4,8 @@ module.exports = {
     extend: {
       colors:{
         'navbar-gray': 'rgba(0, 0, 0, 0.55)',
-        'button-purple': '#FF00FF99'
+        'button-purple': '#FF00FF99',
+        'fancy-white': '#e5e5e5'
 
       },
       backgroundImage:{
