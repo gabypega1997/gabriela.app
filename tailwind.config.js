@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        'navbar-gray': 'rgba(0, 0, 0, 0.55)',
+        'navbar-gray': 'rgba(0, 0, 0, 0.7)',
         'button-purple': '#FF00FF99',
         'fancy-white': '#e5e5e5'
 
